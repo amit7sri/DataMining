@@ -1,0 +1,25 @@
+Output\Observation:
+
+Problem 1> for K=3 SSE value is 587.318
+		   for K=5 SSE value is 385.628
+		   for K=7 SSE value is 280.235
+
+	Output shown on MATLAB:
+		K = 3 SSE = 5.873186e+02 
+		K = 5 SSE = 3.856285e+02 
+		K = 7 SSE = 2.802357e+02 
+		
+	Note: Result may vary each time due to random initialization of initial centroids.
+
+
+Problem 2> K-nearest neighbour accuracy is 95.232%.
+		   SVM accuracy is 94.34%
+		   ANN accuracy is 90.956%
+		   Ensemble accuracy is 95.232%
+
+	Output shown on MATLAB:
+		Percentage Accuracy for K-nearest neighbour is : 9.523224e+01 .
+		Percentage accuracy for SVM is 9.434020e+01 .
+		Percentage accuracy for ANN is 9.095663e+01 .
+		Percentage accuracy for ensemble for majority vote is 9.523224e+01 .
+

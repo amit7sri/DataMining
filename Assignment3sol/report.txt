@@ -1,0 +1,5 @@
+Teammates : Amit Kumar(1211257070), Jainish Kothari(1211210829), Pratik Bonde()
+
+Ques 1> file name: knn_classifiers.m	folder: Ques1
+Ques 2a> file name: knn.m	folder: Ques2
+Ques 2b> file name: neuro.m	folder: Ques2
